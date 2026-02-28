@@ -12,15 +12,6 @@
   },
   "outbounds": [
     {
-      "server": "183.236.51.36",
-      "server_port": 59003,
-      "tag": "🟡🇨🇳_github.com/Ruk1ng001_718283ff",
-      "type": "vmess",
-      "alter_id": 64,
-      "security": "auto",
-      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24"
-    },
-    {
       "password": "asd123456",
       "server": "103.149.183.200",
       "server_port": 8388,
@@ -29,12 +20,12 @@
       "method": "chacha20-ietf"
     },
     {
-      "password": "asd123456",
-      "server": "103.149.182.105",
-      "server_port": 8388,
-      "tag": "🟢🇭🇰_github.com/Ruk1ng001_f7b24f37",
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 25612,
+      "tag": "🟢🇹🇼[🎬🤖📺🎭]_github.com/Ruk1ng001_2622e5b1",
       "type": "shadowsocks",
-      "method": "chacha20-ietf"
+      "method": "chacha20-ietf-poly1305"
     },
     {
       "username": "336501b6-51d2-11ee-a993-f23c9164ca5d",
@@ -61,28 +52,12 @@
       "type": "http"
     },
     {
-      "username": "d49e545e-0daf-11ee-a91f-f23c913c8d2b",
-      "password": "\u003cpassword\u003e",
-      "server": "d1c1e5d3-t9zts0-tct1rd-1o0ch.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📦🔍]_github.com/Ruk1ng001_8785afc9",
-      "tls": {
-        "enabled": true,
-        "server_name": "d1c1e5d3-t9zts0-tct1rd-1o0ch.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "username": "ea800f9e-ca6c-11ef-8e74-f23c913c8d2b",
-      "password": "\u003cpassword\u003e",
-      "server": "9ea0b168-t9zts0-tfjz9x-1t5n1.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺🎭🎪📦]_github.com/Ruk1ng001_cf650c02",
-      "tls": {
-        "enabled": true,
-        "server_name": "9ea0b168-t9zts0-tfjz9x-1t5n1.hkt.cdnhuawei.com"
-      },
-      "type": "http"
+      "password": "asd123456",
+      "server": "103.149.182.105",
+      "server_port": 8388,
+      "tag": "🟢🇭🇰[📺✨]_github.com/Ruk1ng001_f7b24f37",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf"
     },
     {
       "username": "e8a960d8-14f5-11ec-a0fc-f23c913c8d2b",
@@ -109,18 +84,6 @@
       "type": "http"
     },
     {
-      "username": "e8a960d8-14f5-11ec-a0fc-f23c913c8d2b",
-      "password": "\u003cpassword\u003e",
-      "server": "9c0c4d1c-t9zts0-tbfs5p-1bonh.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬📺🎭🎪]_github.com/Ruk1ng001_8dd77be6",
-      "tls": {
-        "enabled": true,
-        "server_name": "9c0c4d1c-t9zts0-tbfs5p-1bonh.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
       "username": "990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9",
       "password": "\u003cpassword\u003e",
       "server": "b6f14c91-t9zts0-tac59v-i8ie.hkt.cdnhuawei.com",
@@ -133,16 +96,12 @@
       "type": "http"
     },
     {
-      "username": "de003c72-0157-11ef-86da-f23c91cfbbc9",
-      "password": "\u003cpassword\u003e",
-      "server": "9c374276-ta1og0-tm3dx0-1r9dt.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬📺🎭]_github.com/Ruk1ng001_7e774230",
-      "tls": {
-        "enabled": true,
-        "server_name": "9c374276-ta1og0-tm3dx0-1r9dt.hkt.cdnhuawei.com"
-      },
-      "type": "http"
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 59906,
+      "tag": "🔴🇯🇵[🎬🤖📺🎭]_github.com/Ruk1ng001_89e7fa08",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
     },
     {
       "username": "d2f0bee2-02f1-11f0-8eb0-f23c9164ca5d",
@@ -157,13 +116,18 @@
       "type": "http"
     },
     {
-      "password": "262f1d150049457ac1d6e66b020fa980",
-      "server": "54.250.241.85",
-      "server_port": 3423,
-      "tag": "🔴🇯🇵[🎬🤖📺🎭]_github.com/Ruk1ng001_b7fbfa8c",
+      "password": "347ca311-8fc2-499c-8fe1-bd0ecb50f1b3",
+      "server": "5.34.222.4",
+      "server_port": 43074,
+      "tag": "🔴🇺🇸[📺🎭🎪✨]_github.com/Ruk1ng001_7f5c17b5",
       "tls": {
         "enabled": true,
-        "server_name": "www.nintendogames.net"
+        "server_name": "iepl.jpz2.cat.bilibili.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
       "type": "trojan"
     },
@@ -180,54 +144,69 @@
       "type": "http"
     },
     {
-      "username": "1b13e20c-e778-11ef-907f-f23c913c8d2b",
+      "username": "9cc3c03e-21fd-11ee-a642-f23c91369f2d",
       "password": "\u003cpassword\u003e",
-      "server": "d475037f-t9zts0-teu3io-1t4wg.hkt.cdnhuawei.com",
+      "server": "f868c076-t9zts0-tqx9ef-1k0yf.hkt.cdnhuawei.com",
       "server_port": 8443,
-      "tag": "🔴🇭🇰[📺✨🎞️🔍]_github.com/Ruk1ng001_b50ca51b",
+      "tag": "🔴🇭🇰[📺🎭🎪✨]_github.com/Ruk1ng001_18e95987",
       "tls": {
         "enabled": true,
-        "server_name": "d475037f-t9zts0-teu3io-1t4wg.hkt.cdnhuawei.com"
+        "server_name": "f868c076-t9zts0-tqx9ef-1k0yf.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
     {
-      "username": "bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b",
+      "username": "759bf004-6137-11ec-bd7c-f23c913c8d2b",
       "password": "\u003cpassword\u003e",
-      "server": "b7d2d774-t9zts0-thpx3l-141tv.hkt.cdnhuawei.com",
+      "server": "0535d23a-ta1og0-thiwul-1gcq2.hkt.cdnhuawei.com",
       "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬✈️🔍]_github.com/Ruk1ng001_90e0f0fb",
+      "tag": "🔴🇭🇰[🎭🎪🎞️]_github.com/Ruk1ng001_debb2f79",
       "tls": {
         "enabled": true,
-        "server_name": "b7d2d774-t9zts0-thpx3l-141tv.hkt.cdnhuawei.com"
+        "server_name": "0535d23a-ta1og0-thiwul-1gcq2.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
     {
-      "username": "a2313fba-74a6-11ed-a8bf-f23c91cfbbc9",
+      "username": "9d80dd14-ac44-11ee-a116-f23c9164ca5d",
       "password": "\u003cpassword\u003e",
-      "server": "90d955b3-t9zts0-trg4wh-z65w.hkt.cdnhuawei.com",
+      "server": "6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com",
       "server_port": 8443,
-      "tag": "🔴🇭🇰[📺🎪🎞️📦]_github.com/Ruk1ng001_d6cec092",
+      "tag": "🔴🇭🇰[🎬🎭🎪]_github.com/Ruk1ng001_09ef1197",
       "tls": {
         "enabled": true,
-        "server_name": "90d955b3-t9zts0-trg4wh-z65w.hkt.cdnhuawei.com"
+        "server_name": "6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
     {
-      "server": "183.236.51.36",
-      "server_port": 59003,
-      "tag": "🟡🇨🇳_github.com/Ruk1ng001_89b36625",
-      "type": "vmess",
-      "alter_id": 64,
-      "security": "auto",
-      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24"
+      "username": "3952a514-eaa7-11ef-97da-f23c91cfbbc9",
+      "password": "\u003cpassword\u003e",
+      "server": "f11cf6fc-ta1og0-taksay-1tcuf.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[📺🎭✈️🔍]_github.com/Ruk1ng001_4d7c49de",
+      "tls": {
+        "enabled": true,
+        "server_name": "f11cf6fc-ta1og0-taksay-1tcuf.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "fcd39788-ca23-11ed-86e2-f23c913c8d2b",
+      "password": "\u003cpassword\u003e",
+      "server": "4a93c05c-t9zts0-tcr97d-2b2n.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[📺🎪✈️]_github.com/Ruk1ng001_072729f9",
+      "tls": {
+        "enabled": true,
+        "server_name": "4a93c05c-t9zts0-tcr97d-2b2n.hkt.cdnhuawei.com"
+      },
+      "type": "http"
     },
     {
       "server": "sgskb.osaip.net",
       "server_port": 25055,
-      "tag": "🟢🇯🇵[🤖📺🎭🎪]_github.com/Ruk1ng001_65862336",
+      "tag": "🟢🇯🇵[🎬🤖📺🎭]_github.com/Ruk1ng001_65862336",
       "tls": {
         "enabled": true,
         "server_name": "sgskb.osaip.net",
@@ -245,17 +224,12 @@
       "packet_encoding": "xudp"
     },
     {
-      "username": "test",
-      "password": "test.+",
-      "server": "testkr3.ssv.vc",
-      "server_port": 30446,
-      "tag": "🔴🇰🇷[🎬🤖📺🎭]_github.com/Ruk1ng001_FQLMnmSE",
-      "tls": {
-        "enabled": true,
-        "server_name": "testkr3.ssv.vc",
-        "insecure": true
-      },
-      "type": "http"
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 28063,
+      "tag": "🟢🇸🇬[🎬🤖📺🎪]_github.com/Ruk1ng001_087e4868",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
     },
     {
       "username": "0a4d1c88-fb3a-11ef-8c3f-f23c913c8d2b",
@@ -266,6 +240,18 @@
       "tls": {
         "enabled": true,
         "server_name": "815413d8-t9zts0-tbnucr-1thfv.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "6ce63b80-8b5b-11ef-b635-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "9870b91e-t9zts0-tbac1z-1j3zm.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[📺🎭🎪✨]_github.com/Ruk1ng001_57b471d8",
+      "tls": {
+        "enabled": true,
+        "server_name": "9870b91e-t9zts0-tbac1z-1j3zm.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
@@ -282,54 +268,6 @@
       "type": "http"
     },
     {
-      "username": "c594c7ec-8b10-11ef-a2b8-f23c9164ca5d",
-      "password": "\u003cpassword\u003e",
-      "server": "cc17a031-t9zts0-titr5n-1hhyy.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺✨]_github.com/Ruk1ng001_674933ca",
-      "tls": {
-        "enabled": true,
-        "server_name": "cc17a031-t9zts0-titr5n-1hhyy.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "username": "96c798f6-4645-11ee-b8a1-f23c9164ca5d",
-      "password": "\u003cpassword\u003e",
-      "server": "0ed6bcff-t9zts0-th9kx9-1os43.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺🎭🎞️]_github.com/Ruk1ng001_e8bd8b0f",
-      "tls": {
-        "enabled": true,
-        "server_name": "0ed6bcff-t9zts0-th9kx9-1os43.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "username": "62b7824e-47dc-11ef-9f2d-f23c9164ca5d",
-      "password": "\u003cpassword\u003e",
-      "server": "3d60a50f-ta1og0-tkp3tl-1s09x.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬📺🎭🔍]_github.com/Ruk1ng001_9bc02321",
-      "tls": {
-        "enabled": true,
-        "server_name": "3d60a50f-ta1og0-tkp3tl-1s09x.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "username": "3fed19ea-1671-11f0-bd2e-f23c9164ca5d",
-      "password": "\u003cpassword\u003e",
-      "server": "afbf4e3b-t9zts0-tdfzix-fm2v.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬📺🎭🎪]_github.com/Ruk1ng001_f6ccc010",
-      "tls": {
-        "enabled": true,
-        "server_name": "afbf4e3b-t9zts0-tdfzix-fm2v.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
       "server": "v33.hdacd.com",
       "server_port": 30833,
       "tag": "🔴🇩🇪[🎬🤖📺🎭]_github.com/Ruk1ng001_64dbbc26",
@@ -339,16 +277,13 @@
       "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
     },
     {
-      "username": "1b9c460e-f026-11ef-b737-f23c91cfbbc9",
-      "password": "\u003cpassword\u003e",
-      "server": "bc50d550-t9zts0-tbeopq-1s0a7.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬📺🎭✨]_github.com/Ruk1ng001_b6d14edf",
-      "tls": {
-        "enabled": true,
-        "server_name": "bc50d550-t9zts0-tbeopq-1s0a7.hkt.cdnhuawei.com"
-      },
-      "type": "http"
+      "server": "v9.hdacd.com",
+      "server_port": 30809,
+      "tag": "🟡🇭🇰[🎬🧠📺🎭]_github.com/Ruk1ng001_22bb1257",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
     },
     {
       "server": "v33.hdacd.com",
@@ -372,17 +307,9 @@
       "type": "http"
     },
     {
-      "password": "kaQH3hGdcP80XEDI",
-      "server": "20.108.41.100",
-      "server_port": 443,
-      "tag": "🔴🇬🇧[🎬🤖📺🎭]_github.com/Ruk1ng001_1f77f448",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "server": "v8.hdacd.com",
-      "server_port": 30808,
-      "tag": "🔴🇺🇸[🎬🤖📺🎪]_github.com/Ruk1ng001_c3091a9a",
+      "server": "v35.hdacd.com",
+      "server_port": 30835,
+      "tag": "🔴🇫🇷[🎬🤖📺🎭]_github.com/Ruk1ng001_Y3magy4E",
       "type": "vmess",
       "alter_id": 2,
       "security": "auto",
@@ -411,65 +338,79 @@
       "packet_encoding": "xudp"
     },
     {
-      "username": "9cc3c03e-21fd-11ee-a642-f23c91369f2d",
-      "password": "\u003cpassword\u003e",
-      "server": "f868c076-t9zts0-tqx9ef-1k0yf.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📦]_github.com/Ruk1ng001_18e95987",
-      "tls": {
-        "enabled": true,
-        "server_name": "f868c076-t9zts0-tqx9ef-1k0yf.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "username": "Og%3D%3D",
-      "server": "213.35.110.67",
-      "server_port": 10850,
-      "tag": "🔴🇸🇬_github.com/Ruk1ng001_bdc78de7",
-      "type": "socks",
-      "network": "tcp"
-    },
-    {
-      "username": "ecfab6c8-df5b-11ed-98a7-f23c913c8d2b",
-      "password": "\u003cpassword\u003e",
-      "server": "a329ace7-t9zts0-tn57fp-5ifr.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺📦🔍]_github.com/Ruk1ng001_c9b15074",
-      "tls": {
-        "enabled": true,
-        "server_name": "a329ace7-t9zts0-tn57fp-5ifr.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "password": "VCFAk7Hc8FI27kHavKAfJpamy",
-      "server": "basic-ru-0.undef.network",
-      "server_port": 42095,
-      "tag": "🔴🇷🇺[📺✨🔍]_github.com/Ruk1ng001_c7e1d9de",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "server": "2.hk.2.cdn-bilibili.cn",
+      "server": "185.171.202.55",
       "server_port": 443,
-      "tag": "🟡🇭🇰[📺📦]_github.com/Ruk1ng001_221394ff",
+      "tag": "🔴🇫🇷[🎬🤖📺🎭]_github.com/Ruk1ng001_57a102e0",
       "tls": {
         "enabled": true,
-        "server_name": "www.icloud.com",
+        "server_name": "fran.scroogethebest.com",
         "utls": {
           "enabled": true,
-          "fingerprint": "safari"
+          "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU"
+          "public_key": "AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc",
+          "short_id": "4fa44664f6a566d3"
         }
       },
       "type": "vless",
-      "uuid": "fcfc091d-81a4-40b7-cbdc-8eb7683617a4",
+      "uuid": "ccedb1b1-35f3-46d1-a85a-c699eef5f3e1",
       "flow": "xtls-rprx-vision",
       "packet_encoding": "xudp"
+    },
+    {
+      "server": "v29.hdacd.com",
+      "server_port": 30829,
+      "tag": "🔴🇺🇸[🤖📺🎪✨]_github.com/Ruk1ng001_fSHnGRad",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "server": "v8.hdacd.com",
+      "server_port": 30808,
+      "tag": "🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_c3091a9a",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "username": "1cce7df2-251c-11ee-9409-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "503cc7e8-ta1og0-taz53d-1j0y6.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[📺🎭🎪📦]_github.com/Ruk1ng001_0c41c2a4",
+      "tls": {
+        "enabled": true,
+        "server_name": "503cc7e8-ta1og0-taz53d-1j0y6.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "server": "154.31.114.125",
+      "server_port": 443,
+      "tag": "🔴🇯🇵[🎬🤖📺🎭]_github.com/Ruk1ng001_397f875c",
+      "tls": {
+        "enabled": true,
+        "server_name": "navi.bankrate.com",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc",
+          "short_id": "2da72ce6"
+        }
+      },
+      "type": "vless",
+      "uuid": "bcc53d6e-4ff9-4e19-8145-7fbb298f2c56",
+      "packet_encoding": "xudp",
+      "tcp_fast_open": true
     },
     {
       "password": "HutaoCloud",
@@ -484,45 +425,103 @@
       "type": "trojan"
     },
     {
-      "username": "4f4c6876-fcf6-11ef-94aa-f23c913c8d2b",
-      "password": "\u003cpassword\u003e",
-      "server": "58928cc2-t9zts0-tbrhck-1thqb.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺🎪]_github.com/Ruk1ng001_2bf2eb5f",
+      "server": "195.54.175.160",
+      "server_port": 443,
+      "tag": "🔴🇳🇱[🎭]_github.com/Ruk1ng001_1b774b2a",
       "tls": {
         "enabled": true,
-        "server_name": "58928cc2-t9zts0-tbrhck-1thqb.hkt.cdnhuawei.com"
+        "server_name": "sni.111000.indevs.in",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "headers": {
+          "Host": [
+            "sni.111000.indevs.in"
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+          ]
+        },
+        "path": "/?ed=2560\u0026Telegram🇨🇳@WangCai2",
+        "type": "ws"
+      },
+      "type": "vless",
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "packet_encoding": "xudp"
+    },
+    {
+      "password": "8r\u003c[9'l6hAO#8ZQi",
+      "server": "172.66.44.230",
+      "server_port": 8443,
+      "tag": "🔴🇺🇸[🎬📺🎭🎪]_github.com/Ruk1ng001_03ee2822",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "headers": {
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36"
+          ]
+        },
+        "path": "/tro8sFW1S91B6sZrM1?ed=2560",
+        "type": "ws"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "8r\u003c[9'l6hAO#8ZQi",
+      "server": "172.66.44.230",
+      "server_port": 8443,
+      "tag": "🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_0e6592f1",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "headers": {
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36"
+          ]
+        },
+        "path": "/tro8sFW1S91B6sZrM1?ed=2560",
+        "type": "ws"
+      },
+      "type": "trojan"
+    },
+    {
+      "username": "2ec58858-976b-11ea-82ef-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "cd345171-t9zts0-tahh2s-tng5.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[📺✈️]_github.com/Ruk1ng001_33803744",
+      "tls": {
+        "enabled": true,
+        "server_name": "cd345171-t9zts0-tahh2s-tng5.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
     {
-      "server": "62.182.195.78",
+      "username": "847c03b2-0a9d-11eb-a8bf-f23c91cfbbc9",
+      "password": "\u003cpassword\u003e",
+      "server": "705650ae-t9zts0-tgr32b-wj6v.hkt.cdnhuawei.com",
       "server_port": 8443,
-      "tag": "🔴🇸🇪[🎬🤖📺🎭]_github.com/Ruk1ng001_70aaf6f2",
+      "tag": "🔴🇭🇰[📺🎞️🔍]_github.com/Ruk1ng001_298c4882",
       "tls": {
         "enabled": true,
-        "server_name": "retn.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU",
-          "short_id": "6b374e33af12fd1e"
-        }
+        "server_name": "705650ae-t9zts0-tgr32b-wj6v.hkt.cdnhuawei.com"
       },
-      "type": "vless",
-      "uuid": "9a63b59c-5e54-437a-b7a1-2788780a7c13",
-      "flow": "xtls-rprx-vision",
-      "packet_encoding": "xudp"
-    },
-    {
-      "username": "fQ67Dpe5dU",
-      "password": "gs4BXwT6SW",
-      "server": "154.26.192.123",
-      "server_port": 10988,
-      "tag": "🔴🇺🇸[🎬🎭]_github.com/Ruk1ng001_a88e970f",
       "type": "http"
     },
     {
@@ -560,43 +559,36 @@
       "type": "http"
     },
     {
-      "username": "3952a514-eaa7-11ef-97da-f23c91cfbbc9",
+      "username": "ea800f9e-ca6c-11ef-8e74-f23c913c8d2b",
       "password": "\u003cpassword\u003e",
-      "server": "f11cf6fc-ta1og0-taksay-1tcuf.hkt.cdnhuawei.com",
+      "server": "9ea0b168-t9zts0-tfjz9x-1t5n1.hkt.cdnhuawei.com",
       "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬📺🎪✈️]_github.com/Ruk1ng001_4d7c49de",
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_cf650c02",
       "tls": {
         "enabled": true,
-        "server_name": "f11cf6fc-ta1og0-taksay-1tcuf.hkt.cdnhuawei.com"
+        "server_name": "9ea0b168-t9zts0-tfjz9x-1t5n1.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
     {
-      "server": "195.135.254.201",
+      "server": "217.154.38.156",
       "server_port": 443,
-      "tag": "🔴🇱🇹_github.com/Ruk1ng001_a3478307",
+      "tag": "🔴🇬🇧[🎬🤖📺🎭]_github.com/Ruk1ng001_a339df8d",
       "tls": {
         "enabled": true,
-        "server_name": "sni.111000.indevs.in",
+        "server_name": "yahoo.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w",
+          "short_id": "2e0f"
         }
       },
-      "transport": {
-        "headers": {
-          "Host": [
-            "sni.111000.indevs.in"
-          ],
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36"
-          ]
-        },
-        "path": "/?ed=2560\u0026Telegram🇨🇳@WangCai2",
-        "type": "ws"
-      },
       "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+      "uuid": "2a8391ef-383c-4321-ac25-89b50973ab73",
       "packet_encoding": "xudp"
     },
     {
@@ -633,89 +625,54 @@
       "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
     },
     {
-      "password": "8r\u003c[9'l6hAO#8ZQi",
-      "server": "172.66.44.230",
-      "server_port": 8443,
-      "tag": "🔴🇺🇸[🤖📺🎭🎪]_github.com/Ruk1ng001_03ee2822",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "headers": {
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36"
-          ]
-        },
-        "path": "/tro8sFW1S91B6sZrM1?ed=2560",
-        "type": "ws"
-      },
-      "type": "trojan"
-    },
-    {
-      "server": "195.54.175.160",
-      "server_port": 443,
-      "tag": "🔴🇳🇱_github.com/Ruk1ng001_1b774b2a",
-      "tls": {
-        "enabled": true,
-        "server_name": "sni.111000.indevs.in",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "headers": {
-          "Host": [
-            "sni.111000.indevs.in"
-          ],
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
-          ]
-        },
-        "path": "/?ed=2560\u0026Telegram🇨🇳@WangCai2",
-        "type": "ws"
-      },
-      "type": "vless",
-      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "8r\u003c[9'l6hAO#8ZQi",
-      "server": "172.66.44.230",
-      "server_port": 8443,
-      "tag": "🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_0e6592f1",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "headers": {
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36"
-          ]
-        },
-        "path": "/tro8sFW1S91B6sZrM1?ed=2560",
-        "type": "ws"
-      },
-      "type": "trojan"
+      "password": "VCFAk7Hc8FI27kHavKAfJpamy",
+      "server": "basic-ru-0.undef.network",
+      "server_port": 42095,
+      "tag": "🔴🇷🇺[📺✨🔍]_github.com/Ruk1ng001_c7e1d9de",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
     },
     {
       "server": "v36.hdacd.com",
       "server_port": 30836,
-      "tag": "🔴🇬🇧[🤖📺🎭]_github.com/Ruk1ng001_5974a235",
+      "tag": "🔴🇬🇧[🎬🤖📺🎭]_github.com/Ruk1ng001_Ok6e8DQD",
       "type": "vmess",
       "alter_id": 2,
       "security": "auto",
       "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "username": "4f4c6876-fcf6-11ef-94aa-f23c913c8d2b",
+      "password": "\u003cpassword\u003e",
+      "server": "58928cc2-t9zts0-tbrhck-1thqb.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[🎞️📦✈️]_github.com/Ruk1ng001_2bf2eb5f",
+      "tls": {
+        "enabled": true,
+        "server_name": "58928cc2-t9zts0-tbrhck-1thqb.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "server": "v36.hdacd.com",
+      "server_port": 30836,
+      "tag": "🔴🇬🇧[🎬🤖📺🎭]_github.com/Ruk1ng001_5974a235",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "username": "c1785de0-212f-11ef-92aa-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "bd00c917-ta1og0-tfpsin-1q3dm.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🟡🇭🇰[🎭🎪✨🎞️]_github.com/Ruk1ng001_53bde187",
+      "tls": {
+        "enabled": true,
+        "server_name": "bd00c917-ta1og0-tfpsin-1q3dm.hkt.cdnhuawei.com"
+      },
+      "type": "http"
     },
     {
       "username": "b4e40aa2-74a1-11ed-b0b5-f23c9164ca5d",
@@ -728,15 +685,6 @@
         "server_name": "da498221-t9zts0-tcfo40-17xo8.hkt.cdnhuawei.com"
       },
       "type": "http"
-    },
-    {
-      "server": "v36.hdacd.com",
-      "server_port": 30836,
-      "tag": "🔴🇬🇧[📺🎭🎪📦]_github.com/Ruk1ng001_Ok6e8DQD",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
     },
     {
       "server": "s843.ccgfw.top",
@@ -759,84 +707,42 @@
       "packet_encoding": "xudp"
     },
     {
-      "server": "deu469.unboundworld.org",
-      "server_port": 8443,
-      "tag": "🟢🇩🇪_github.com/Ruk1ng001_2513cb40",
-      "tls": {
-        "enabled": true,
-        "server_name": "deu469.unboundworld.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "grpc-vless"
-      },
-      "type": "vless",
-      "uuid": "cc9f7840-757a-430b-bddc-a73478bea434",
-      "packet_encoding": "xudp"
-    },
-    {
-      "username": "Og%3D%3D",
-      "server": "121.169.46.116",
-      "server_port": 1090,
-      "tag": "🔴🇰🇷_github.com/Ruk1ng001_5b8e1a9b",
-      "type": "socks",
-      "network": "tcp"
-    },
-    {
-      "username": "9d80dd14-ac44-11ee-a116-f23c9164ca5d",
+      "username": "1b9c460e-f026-11ef-b737-f23c91cfbbc9",
       "password": "\u003cpassword\u003e",
-      "server": "6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com",
+      "server": "bc50d550-t9zts0-tbeopq-1s0a7.hkt.cdnhuawei.com",
       "server_port": 8443,
-      "tag": "🔴🇭🇰_github.com/Ruk1ng001_09ef1197",
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_b6d14edf",
       "tls": {
         "enabled": true,
-        "server_name": "6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com"
+        "server_name": "bc50d550-t9zts0-tbeopq-1s0a7.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
     {
-      "username": "test",
-      "password": "test.+",
-      "server": "testkr3.ssv.vc",
-      "server_port": 30446,
-      "tag": "🔴🇰🇷[🎬📺🎭🎪]_github.com/Ruk1ng001_f74c5c39",
+      "username": "96c798f6-4645-11ee-b8a1-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "0ed6bcff-t9zts0-th9kx9-1os43.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[📺✨✈️]_github.com/Ruk1ng001_e8bd8b0f",
       "tls": {
         "enabled": true,
-        "server_name": "testkr3.ssv.vc",
-        "insecure": true
+        "server_name": "0ed6bcff-t9zts0-th9kx9-1os43.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
     {
-      "server": "38.180.112.88",
-      "server_port": 8443,
-      "tag": "🟢🇹🇷[🎬🤖📺🎭]_github.com/Ruk1ng001_f46a9121",
-      "tls": {
-        "enabled": true,
-        "server_name": "sun6-21.userapi.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo",
-          "short_id": "3ca620a7ed5f3196"
-        }
-      },
-      "type": "vless",
-      "uuid": "010c8bf7-0a43-404f-a6c5-2427acb4d476",
-      "packet_encoding": "xudp"
+      "password": "VCFAk7Hc8FI27kHavKAfJpamy",
+      "server": "176.123.168.79",
+      "server_port": 42095,
+      "tag": "🔴🇷🇺[📺✨🔍]_github.com/Ruk1ng001_8d4305cf",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
     },
     {
-      "password": "987525bc-99a3-461e-a50f-a0a667d06ed7",
+      "password": "b2e15b49-6606-4c62-baff-7015390b3c6a",
       "server": "220.130.58.136",
-      "server_port": 31102,
-      "tag": "🔴🇭🇰[📺🎭]_github.com/Ruk1ng001_9492f0a8",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰[🎬📺🎭🎪]_github.com/Ruk1ng001_bc9c5c4f",
       "tls": {
         "enabled": true,
         "server_name": "green2.cdntencentmusic.com",
@@ -844,6 +750,49 @@
       },
       "type": "trojan",
       "tcp_fast_open": true
+    },
+    {
+      "password": "125f929b-dbde-43b9-b498-695f1cd45d68",
+      "server": "220.130.58.136",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰[🎬📺🎭🎪]_github.com/Ruk1ng001_a513daaa",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "insecure": true
+      },
+      "type": "trojan",
+      "tcp_fast_open": true
+    },
+    {
+      "server": "v36.hdacd.com",
+      "server_port": 30836,
+      "tag": "🔴🇬🇧[🎬🤖📺🎭]_github.com/Ruk1ng001_71e06525",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "server": "142.248.80.157",
+      "server_port": 443,
+      "tag": "🟢🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_4ffafbe8",
+      "tls": {
+        "enabled": true,
+        "server_name": "apple.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y"
+        }
+      },
+      "type": "vless",
+      "uuid": "4aff5de5-83dc-43c9-a33e-10e6fdb90ed2",
+      "flow": "xtls-rprx-vision",
+      "packet_encoding": "xudp"
     },
     {
       "username": "bd515574-3b10-11ee-ac14-f23c9164ca5d",
@@ -854,31 +803,6 @@
       "tls": {
         "enabled": true,
         "server_name": "65dcb648-t9zts0-tb016b-1m7l4.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "password": "6f038cee-6ba1-4941-bce5-de1969f37405",
-      "server": "220.130.58.136",
-      "server_port": 35502,
-      "tag": "🟢🇺🇸[📺📦]_github.com/Ruk1ng001_0033319d",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "insecure": true
-      },
-      "type": "trojan",
-      "tcp_fast_open": true
-    },
-    {
-      "username": "6ce63b80-8b5b-11ef-b635-f23c9164ca5d",
-      "password": "\u003cpassword\u003e",
-      "server": "9870b91e-t9zts0-tbac1z-1j3zm.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺✨📦🔍]_github.com/Ruk1ng001_57b471d8",
-      "tls": {
-        "enabled": true,
-        "server_name": "9870b91e-t9zts0-tbac1z-1j3zm.hkt.cdnhuawei.com"
       },
       "type": "http"
     },
@@ -911,570 +835,56 @@
       "packet_encoding": "xudp"
     },
     {
-      "password": "347ca311-8fc2-499c-8fe1-bd0ecb50f1b3",
-      "server": "5.34.222.4",
-      "server_port": 43074,
-      "tag": "🔴🇺🇸[🤖📺🎭✨]_github.com/Ruk1ng001_7f5c17b5",
-      "tls": {
-        "enabled": true,
-        "server_name": "iepl.jpz2.cat.bilibili.com",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "trojan"
+      "server": "183.236.51.36",
+      "server_port": 59003,
+      "tag": "🟡🇨🇳_github.com/Ruk1ng001_89b36625",
+      "type": "vmess",
+      "alter_id": 64,
+      "security": "auto",
+      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24"
     },
     {
-      "username": "fcd39788-ca23-11ed-86e2-f23c913c8d2b",
-      "password": "\u003cpassword\u003e",
-      "server": "4a93c05c-t9zts0-tcr97d-2b2n.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬📺🎭🎪]_github.com/Ruk1ng001_072729f9",
-      "tls": {
-        "enabled": true,
-        "server_name": "4a93c05c-t9zts0-tcr97d-2b2n.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "username": "847c03b2-0a9d-11eb-a8bf-f23c91cfbbc9",
-      "password": "\u003cpassword\u003e",
-      "server": "705650ae-t9zts0-tgr32b-wj6v.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺🎭]_github.com/Ruk1ng001_298c4882",
-      "tls": {
-        "enabled": true,
-        "server_name": "705650ae-t9zts0-tgr32b-wj6v.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "username": "c1785de0-212f-11ef-92aa-f23c9164ca5d",
-      "password": "\u003cpassword\u003e",
-      "server": "bd00c917-ta1og0-tfpsin-1q3dm.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🟡🇭🇰[📺🎭🎪]_github.com/Ruk1ng001_53bde187",
-      "tls": {
-        "enabled": true,
-        "server_name": "bd00c917-ta1og0-tfpsin-1q3dm.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "server": "s844.ccgfw.top",
-      "server_port": 443,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_e3f7207b",
-      "tls": {
-        "enabled": true,
-        "server_name": "u708330ub869s844.ccgfw.top",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "ios"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "ssp"
-      },
-      "type": "vless",
-      "uuid": "8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "104.19.152.87",
-      "server_port": 443,
-      "tag": "🟢🇭🇰[📺]_github.com/Ruk1ng001_f840f88d",
-      "tls": {
-        "enabled": true,
-        "server_name": "s6.oboob.cn",
-        "insecure": true
-      },
-      "transport": {
-        "headers": {
-          "Host": [
-            "s6.oboob.cn"
-          ]
-        },
-        "path": "/db1024113a787392",
-        "type": "ws"
-      },
-      "type": "vless",
-      "uuid": "d2efa18a-9e8a-3057-91fe-90c8e620e49f",
-      "packet_encoding": "xudp",
-      "tcp_fast_open": true
-    },
-    {
-      "username": "759bf004-6137-11ec-bd7c-f23c913c8d2b",
-      "password": "\u003cpassword\u003e",
-      "server": "0535d23a-ta1og0-thiwul-1gcq2.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺✨✈️]_github.com/Ruk1ng001_debb2f79",
-      "tls": {
-        "enabled": true,
-        "server_name": "0535d23a-ta1og0-thiwul-1gcq2.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "server": "s842.ccgfw.top",
-      "server_port": 443,
-      "tag": "🔴🇺🇸[🤖✨🎞️📦]_github.com/Ruk1ng001_52ddb22f",
-      "tls": {
-        "enabled": true,
-        "server_name": "u708330u0378s842.ccgfw.top",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "ssp"
-      },
-      "type": "vless",
-      "uuid": "8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e",
-      "packet_encoding": "xudp"
-    },
-    {
-      "username": "ba7a37e3-033a-e1ab-06f6-9027aa4630f5",
-      "password": "\u003cpassword\u003e",
-      "server": "5e10aa15-t9zts0-toa9ad-4w8.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[🎭🎞️📦✈️]_github.com/Ruk1ng001_ad83c26c",
-      "tls": {
-        "enabled": true,
-        "server_name": "5e10aa15-t9zts0-toa9ad-4w8.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "password": "6dfbef3b-f718-4053-806f-c9657e2fd943",
-      "server": "212.192.12.146",
-      "server_port": 12344,
-      "tag": "🟡🇭🇰_github.com/Ruk1ng001_dede2638",
-      "tls": {
-        "enabled": true,
-        "server_name": "hkfree.jljd.xyz",
-        "insecure": true
-      },
-      "type": "hysteria2",
-      "obfs": {
-        "password": "ZWI4MWQ5YmMzOWY2NzlhMA==",
-        "type": "salamander"
-      },
-      "tcp_fast_open": true
-    },
-    {
-      "server": "109.172.55.232",
-      "server_port": 13760,
-      "tag": "🟢🇫🇷[📺🎭🎪🔍]_github.com/Ruk1ng001_e863b1af",
-      "tls": {
-        "enabled": true,
-        "server_name": "yandex.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "ktZ1lxOpDoIq3mk39kNAi1uK0z3qTA6f-6u2KbQmICg",
-          "short_id": "58a8787420b6a153"
-        }
-      },
-      "type": "vless",
-      "uuid": "5fad3ad2-1a94-40d0-85bb-51eb83f5c7df",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "220.128.110.108",
-      "server_port": 43,
-      "tag": "🔴🇹🇼[📺🎞️📦🔍]_github.com/Ruk1ng001_6aaa1be6",
-      "tls": {
-        "enabled": true,
-        "server_name": "63.hhhhh.eu.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "headers": {
-          "Host": [
-            "63.hhhhh.eu.org"
-          ],
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36"
-          ]
-        },
-        "path": "/220.128.110.108:43",
-        "type": "ws"
-      },
-      "type": "vless",
-      "uuid": "3e974f9e-f568-4c2a-a4db-e9b666b4ea9e",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "47.80.13.85",
-      "server_port": 443,
-      "tag": "🔴🇰🇷[🎬🤖]_github.com/Ruk1ng001_a8ee718d",
-      "tls": {
-        "enabled": true,
-        "server_name": "api.company-target.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw"
-        }
-      },
-      "type": "vless",
-      "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "asd123456",
-      "server": "103.36.91.32",
-      "server_port": 8388,
-      "tag": "🔴🇸🇬[🎬✨]_github.com/Ruk1ng001_7KBJLIuL",
+      "password": "f8f7aCzcPKbsF8p3",
+      "server": "185.231.233.112",
+      "server_port": 989,
+      "tag": "🔴🇵🇹[🤖📺📦🔍]_github.com/Ruk1ng001_a4bc1e9b",
       "type": "shadowsocks",
-      "method": "chacha20-ietf",
-      "network": "tcp"
-    },
-    {
-      "server": "185.194.217.97",
-      "server_port": 1080,
-      "tag": "🔴🇫🇷_github.com/Ruk1ng001_7e51e835",
-      "type": "socks",
-      "network": "tcp"
-    },
-    {
-      "username": "2ec58858-976b-11ea-82ef-f23c9164ca5d",
-      "password": "\u003cpassword\u003e",
-      "server": "cd345171-t9zts0-tahh2s-tng5.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[✨📦]_github.com/Ruk1ng001_33803744",
-      "tls": {
-        "enabled": true,
-        "server_name": "cd345171-t9zts0-tahh2s-tng5.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "server": "v36.hdacd.com",
-      "server_port": 30836,
-      "tag": "🔴🇬🇧[🤖]_github.com/Ruk1ng001_71e06525",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "server": "47.80.12.87",
-      "server_port": 443,
-      "tag": "🔴🇰🇷[📦]_github.com/Ruk1ng001_d884f0d9",
-      "tls": {
-        "enabled": true,
-        "server_name": "api.company-target.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw"
-        }
-      },
-      "type": "vless",
-      "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "v8.hdacd.com",
-      "server_port": 30808,
-      "tag": "🔴🇺🇸[📺🎭🎪]_github.com/Ruk1ng001_Tdz1v6tW",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "server": "121.169.46.116",
-      "server_port": 1090,
-      "tag": "🔴🇰🇷[📺]_github.com/Ruk1ng001_d5ac756e",
-      "type": "socks",
-      "network": "tcp"
+      "method": "aes-256-cfb"
     },
     {
       "server": "82.198.246.97",
       "server_port": 180,
-      "tag": "🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_e3268b89",
+      "tag": "🔴🇺🇸[🤖🎭📦✈️]_github.com/Ruk1ng001_rT8TKIqy",
       "type": "vmess",
       "security": "auto",
       "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
     },
     {
-      "server": "82.198.246.97",
-      "server_port": 180,
-      "tag": "🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_rT8TKIqy",
-      "type": "vmess",
-      "security": "auto",
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
-    },
-    {
-      "server": "82.198.246.97",
-      "server_port": 180,
-      "tag": "🔴🇺🇸[🎬📺🎭🎪]_github.com/Ruk1ng001_8c744d14",
-      "type": "vmess",
-      "security": "auto",
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
-    },
-    {
-      "username": "Og%3D%3D",
-      "server": "121.169.46.116",
-      "server_port": 1090,
-      "tag": "🔴🇰🇷[📺🎭🎪]_github.com/Ruk1ng001_48b81d1a",
-      "type": "socks",
-      "network": "tcp"
-    },
-    {
-      "username": "bdf3e15e-c64c-11ea-82ef-f23c9164ca5d",
+      "username": "de003c72-0157-11ef-86da-f23c91cfbbc9",
       "password": "\u003cpassword\u003e",
-      "server": "52b40d76-t9zts0-tsdg75-tlhh.hkt.cdnhuawei.com",
+      "server": "9c374276-ta1og0-tm3dx0-1r9dt.hkt.cdnhuawei.com",
       "server_port": 8443,
-      "tag": "🔴🇭🇰[📺🎭🎪✨]_github.com/Ruk1ng001_4794b447",
+      "tag": "🔴🇭🇰[📺🎭]_github.com/Ruk1ng001_7e774230",
       "tls": {
         "enabled": true,
-        "server_name": "52b40d76-t9zts0-tsdg75-tlhh.hkt.cdnhuawei.com"
+        "server_name": "9c374276-ta1og0-tm3dx0-1r9dt.hkt.cdnhuawei.com"
       },
       "type": "http"
-    },
-    {
-      "username": "28213b50-7ed5-11ee-add6-f23c91369f2d",
-      "password": "\u003cpassword\u003e",
-      "server": "4aa2575a-t9zts0-tqgocx-1plv4.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[🎬📺🎭📦]_github.com/Ruk1ng001_c085e67e",
-      "tls": {
-        "enabled": true,
-        "server_name": "4aa2575a-t9zts0-tqgocx-1plv4.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "username": "1cce7df2-251c-11ee-9409-f23c9164ca5d",
-      "password": "\u003cpassword\u003e",
-      "server": "503cc7e8-ta1og0-taz53d-1j0y6.hkt.cdnhuawei.com",
-      "server_port": 8443,
-      "tag": "🔴🇭🇰[📺✨📦🔍]_github.com/Ruk1ng001_0c41c2a4",
-      "tls": {
-        "enabled": true,
-        "server_name": "503cc7e8-ta1og0-taz53d-1j0y6.hkt.cdnhuawei.com"
-      },
-      "type": "http"
-    },
-    {
-      "password": "8r\u003c[9'l6hAO#8ZQi",
-      "server": "172.66.44.230",
-      "server_port": 8443,
-      "tag": "🔴🇺🇸[🤖📺🎭🎪]_github.com/Ruk1ng001_dfFRgKCN",
-      "tls": {
-        "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "headers": {
-          "User-Agent": [
-            "Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36"
-          ]
-        },
-        "path": "/tro8sFW1S91B6sZrM1?ed=2560",
-        "type": "ws"
-      },
-      "type": "trojan"
-    },
-    {
-      "server": "dns.dressforida.monster",
-      "server_port": 443,
-      "tag": "🔴🇫🇮[🤖📺🎭🎪]_github.com/Ruk1ng001_279dc2e3",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.techradar.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8",
-          "short_id": "174c6cf22e22"
-        }
-      },
-      "type": "vless",
-      "uuid": "79149019-5abe-46f9-91ae-e1e7d1d2c408",
-      "flow": "xtls-rprx-vision",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "142.248.80.157",
-      "server_port": 443,
-      "tag": "🟢🇺🇸[📺📦✈️]_github.com/Ruk1ng001_4ffafbe8",
-      "tls": {
-        "enabled": true,
-        "server_name": "apple.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y"
-        }
-      },
-      "type": "vless",
-      "uuid": "4aff5de5-83dc-43c9-a33e-10e6fdb90ed2",
-      "flow": "xtls-rprx-vision",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
-      "server": "ldu.izenny.com",
-      "server_port": 34411,
-      "tag": "🔴🇮🇳[🎬📺🎭📦]_github.com/Ruk1ng001_d169f9a5",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "password": "20a3d819-ca7f-48a6-ba20-f7021e8dbbbe",
-      "server": "220.130.58.136",
-      "server_port": 31103,
-      "tag": "🟢🇭🇰[📺🎭]_github.com/Ruk1ng001_6a8bbd5e",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "insecure": true
-      },
-      "type": "trojan",
-      "tcp_fast_open": true
     },
     {
       "server": "v35.hdacd.com",
       "server_port": 30835,
-      "tag": "🔴🇫🇷_github.com/Ruk1ng001_53a86449",
+      "tag": "🔴🇫🇷[🎬🤖📺🎭]_github.com/Ruk1ng001_53a86449",
       "type": "vmess",
       "alter_id": 2,
       "security": "auto",
       "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
     },
     {
-      "server": "v29.hdacd.com",
-      "server_port": 30829,
-      "tag": "🔴🇺🇸[🎬📺🎭🎪]_github.com/Ruk1ng001_fSHnGRad",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "server": "v9.hdacd.com",
-      "server_port": 30809,
-      "tag": "🟡🇭🇰[📺]_github.com/Ruk1ng001_22bb1257",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "server": "139.196.41.153",
-      "server_port": 443,
-      "tag": "🔴🇭🇰[📺]_github.com/Ruk1ng001_0dabd341",
-      "tls": {
-        "enabled": true,
-        "server_name": "ylnhh.cc.cd",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "headers": {
-          "Host": [
-            "ylnhh.cc.cd"
-          ],
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36"
-          ]
-        },
-        "path": "/gs5=6666:6666@47.239.178.125:6666",
-        "type": "ws"
-      },
-      "type": "vless",
-      "uuid": "14b02e2a-8930-4afb-8412-ea4a4954ca5b",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "v35.hdacd.com",
-      "server_port": 30835,
-      "tag": "🔴🇫🇷[📺🎭🎪]_github.com/Ruk1ng001_Y3magy4E",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "server": "217.154.38.156",
-      "server_port": 443,
-      "tag": "🔴🇬🇧[🤖📺📦]_github.com/Ruk1ng001_a339df8d",
-      "tls": {
-        "enabled": true,
-        "server_name": "yahoo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w",
-          "short_id": "2e0f"
-        }
-      },
-      "type": "vless",
-      "uuid": "2a8391ef-383c-4321-ac25-89b50973ab73",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "185.234.57.216",
-      "server_port": 443,
-      "tag": "🔴🇦🇲[📺🎪📦✈️]_github.com/Ruk1ng001_2e6d5066",
-      "tls": {
-        "enabled": true,
-        "server_name": "yahoo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ",
-          "short_id": "f9fe"
-        }
-      },
-      "type": "vless",
-      "uuid": "d50ef9ea-7adf-4b45-977a-16bca0f11584",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "ba222255-00e9-434d-88f0-e0c22ac529f4",
+      "password": "04e5b584-1850-483d-a844-9ad624a4ca8e",
       "server": "green2.cdntencentmusic.com",
       "server_port": 35501,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_8dd021ca",
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_22c58864",
       "tls": {
         "enabled": true,
         "server_name": "green2.cdntencentmusic.com",
@@ -1501,10 +911,10 @@
       "type": "trojan"
     },
     {
-      "password": "04e5b584-1850-483d-a844-9ad624a4ca8e",
+      "password": "ba222255-00e9-434d-88f0-e0c22ac529f4",
       "server": "green2.cdntencentmusic.com",
       "server_port": 35501,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_22c58864",
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_8dd021ca",
       "tls": {
         "enabled": true,
         "server_name": "green2.cdntencentmusic.com",
@@ -1514,6 +924,736 @@
         }
       },
       "type": "trojan"
+    },
+    {
+      "server": "v8.hdacd.com",
+      "server_port": 30808,
+      "tag": "🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_Tdz1v6tW",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "server": "s844.ccgfw.top",
+      "server_port": 443,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_e3f7207b",
+      "tls": {
+        "enabled": true,
+        "server_name": "u708330ub869s844.ccgfw.top",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "ios"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "ssp"
+      },
+      "type": "vless",
+      "uuid": "8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e",
+      "packet_encoding": "xudp"
+    },
+    {
+      "server": "183.236.51.36",
+      "server_port": 59003,
+      "tag": "🟡🇨🇳_github.com/Ruk1ng001_718283ff",
+      "type": "vmess",
+      "alter_id": 64,
+      "security": "auto",
+      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24"
+    },
+    {
+      "server": "185.234.57.216",
+      "server_port": 443,
+      "tag": "🔴🇦🇲[🎬🤖📺🎪]_github.com/Ruk1ng001_2e6d5066",
+      "tls": {
+        "enabled": true,
+        "server_name": "yahoo.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ",
+          "short_id": "f9fe"
+        }
+      },
+      "type": "vless",
+      "uuid": "d50ef9ea-7adf-4b45-977a-16bca0f11584",
+      "packet_encoding": "xudp"
+    },
+    {
+      "server": "2.hk.2.cdn-bilibili.cn",
+      "server_port": 443,
+      "tag": "🟡🇭🇰[📺🎭🔍]_github.com/Ruk1ng001_221394ff",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.icloud.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU"
+        }
+      },
+      "type": "vless",
+      "uuid": "fcfc091d-81a4-40b7-cbdc-8eb7683617a4",
+      "flow": "xtls-rprx-vision",
+      "packet_encoding": "xudp"
+    },
+    {
+      "server": "185.234.57.216",
+      "server_port": 443,
+      "tag": "🔴🇦🇲[🎬🤖📺🎪]_github.com/Ruk1ng001_c5ab62f3",
+      "tls": {
+        "enabled": true,
+        "server_name": "yahoo.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ",
+          "short_id": "f9fe"
+        }
+      },
+      "type": "vless",
+      "uuid": "b824f264-8cc3-4669-9f60-47b51ed1aa11",
+      "packet_encoding": "xudp"
+    },
+    {
+      "server": "109.172.55.232",
+      "server_port": 13760,
+      "tag": "🟢🇫🇷[📺🎭🎪🔍]_github.com/Ruk1ng001_e863b1af",
+      "tls": {
+        "enabled": true,
+        "server_name": "yandex.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "ktZ1lxOpDoIq3mk39kNAi1uK0z3qTA6f-6u2KbQmICg",
+          "short_id": "58a8787420b6a153"
+        }
+      },
+      "type": "vless",
+      "uuid": "5fad3ad2-1a94-40d0-85bb-51eb83f5c7df",
+      "packet_encoding": "xudp"
+    },
+    {
+      "server": "v29.hdacd.com",
+      "server_port": 30829,
+      "tag": "🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_3305bc16",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "server": "220.128.110.108",
+      "server_port": 43,
+      "tag": "🔴🇹🇼[🤖📺🎭📦]_github.com/Ruk1ng001_6aaa1be6",
+      "tls": {
+        "enabled": true,
+        "server_name": "63.hhhhh.eu.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "headers": {
+          "Host": [
+            "63.hhhhh.eu.org"
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36"
+          ]
+        },
+        "path": "/220.128.110.108:43",
+        "type": "ws"
+      },
+      "type": "vless",
+      "uuid": "3e974f9e-f568-4c2a-a4db-e9b666b4ea9e",
+      "packet_encoding": "xudp"
+    },
+    {
+      "password": "asd123456",
+      "server": "103.36.91.32",
+      "server_port": 8388,
+      "tag": "🔴🇸🇬[🎬✨]_github.com/Ruk1ng001_7KBJLIuL",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf",
+      "network": "tcp"
+    },
+    {
+      "server": "v4.hdacd.com",
+      "server_port": 30804,
+      "tag": "🔴🇺🇸[🤖📺📦]_github.com/Ruk1ng001_8a217df2",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "username": "ecfab6c8-df5b-11ed-98a7-f23c913c8d2b",
+      "password": "\u003cpassword\u003e",
+      "server": "a329ace7-t9zts0-tn57fp-5ifr.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_c9b15074",
+      "tls": {
+        "enabled": true,
+        "server_name": "a329ace7-t9zts0-tn57fp-5ifr.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "ba7a37e3-033a-e1ab-06f6-9027aa4630f5",
+      "password": "\u003cpassword\u003e",
+      "server": "5e10aa15-t9zts0-toa9ad-4w8.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_ad83c26c",
+      "tls": {
+        "enabled": true,
+        "server_name": "5e10aa15-t9zts0-toa9ad-4w8.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "e8a960d8-14f5-11ec-a0fc-f23c913c8d2b",
+      "password": "\u003cpassword\u003e",
+      "server": "9c0c4d1c-t9zts0-tbfs5p-1bonh.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_8dd77be6",
+      "tls": {
+        "enabled": true,
+        "server_name": "9c0c4d1c-t9zts0-tbfs5p-1bonh.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b",
+      "password": "\u003cpassword\u003e",
+      "server": "b7d2d774-t9zts0-thpx3l-141tv.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_90e0f0fb",
+      "tls": {
+        "enabled": true,
+        "server_name": "b7d2d774-t9zts0-thpx3l-141tv.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "62b7824e-47dc-11ef-9f2d-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "3d60a50f-ta1og0-tkp3tl-1s09x.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_9bc02321",
+      "tls": {
+        "enabled": true,
+        "server_name": "3d60a50f-ta1og0-tkp3tl-1s09x.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "c594c7ec-8b10-11ef-a2b8-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "cc17a031-t9zts0-titr5n-1hhyy.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_674933ca",
+      "tls": {
+        "enabled": true,
+        "server_name": "cc17a031-t9zts0-titr5n-1hhyy.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "d49e545e-0daf-11ee-a91f-f23c913c8d2b",
+      "password": "\u003cpassword\u003e",
+      "server": "d1c1e5d3-t9zts0-tct1rd-1o0ch.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_8785afc9",
+      "tls": {
+        "enabled": true,
+        "server_name": "d1c1e5d3-t9zts0-tct1rd-1o0ch.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "password": "4250b3bb-d1ae-4e77-bf71-4069e0d2c383",
+      "server": "220.130.58.136",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_872dd483",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "insecure": true
+      },
+      "type": "trojan",
+      "tcp_fast_open": true
+    },
+    {
+      "server": "82.198.246.97",
+      "server_port": 180,
+      "tag": "🔴🇺🇸[🎬📺🎭📦]_github.com/Ruk1ng001_8c744d14",
+      "type": "vmess",
+      "security": "auto",
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
+    },
+    {
+      "server": "dns.dressforida.monster",
+      "server_port": 443,
+      "tag": "🔴🇫🇮[🎬🤖📺🎭]_github.com/Ruk1ng001_279dc2e3",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.techradar.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8",
+          "short_id": "174c6cf22e22"
+        }
+      },
+      "type": "vless",
+      "uuid": "79149019-5abe-46f9-91ae-e1e7d1d2c408",
+      "flow": "xtls-rprx-vision",
+      "packet_encoding": "xudp"
+    },
+    {
+      "username": "test",
+      "password": "test.+",
+      "server": "testkr3.ssv.vc",
+      "server_port": 30446,
+      "tag": "🔴🇰🇷[🤖📦]_github.com/Ruk1ng001_f74c5c39",
+      "tls": {
+        "enabled": true,
+        "server_name": "testkr3.ssv.vc",
+        "insecure": true
+      },
+      "type": "http"
+    },
+    {
+      "username": "a2313fba-74a6-11ed-a8bf-f23c91cfbbc9",
+      "password": "\u003cpassword\u003e",
+      "server": "90d955b3-t9zts0-trg4wh-z65w.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[🎬📺]_github.com/Ruk1ng001_d6cec092",
+      "tls": {
+        "enabled": true,
+        "server_name": "90d955b3-t9zts0-trg4wh-z65w.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "username": "bdf3e15e-c64c-11ea-82ef-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "52b40d76-t9zts0-tsdg75-tlhh.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[📺🎭🎪✨]_github.com/Ruk1ng001_4794b447",
+      "tls": {
+        "enabled": true,
+        "server_name": "52b40d76-t9zts0-tsdg75-tlhh.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "server": "47.80.13.85",
+      "server_port": 443,
+      "tag": "🔴🇰🇷[🤖🔍]_github.com/Ruk1ng001_a8ee718d",
+      "tls": {
+        "enabled": true,
+        "server_name": "api.company-target.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw"
+        }
+      },
+      "type": "vless",
+      "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
+      "packet_encoding": "xudp"
+    },
+    {
+      "username": "28213b50-7ed5-11ee-add6-f23c91369f2d",
+      "password": "\u003cpassword\u003e",
+      "server": "4aa2575a-t9zts0-tqgocx-1plv4.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[🎬📺🎭📦]_github.com/Ruk1ng001_c085e67e",
+      "tls": {
+        "enabled": true,
+        "server_name": "4aa2575a-t9zts0-tqgocx-1plv4.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "server": "198.62.62.248",
+      "server_port": 443,
+      "tag": "🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_75e61f4d",
+      "tls": {
+        "enabled": true,
+        "server_name": "tar.alabama-tigr.info",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "headers": {
+          "Host": [
+            "tar.alabama-tigr.info"
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+          ]
+        },
+        "path": "/love",
+        "type": "ws"
+      },
+      "type": "vless",
+      "uuid": "5a4abb78-ecd7-4d68-ab2a-c11a3842f261",
+      "packet_encoding": "xudp"
+    },
+    {
+      "server": "121.169.46.116",
+      "server_port": 1090,
+      "tag": "🔴🇰🇷_github.com/Ruk1ng001_d5ac756e",
+      "type": "socks",
+      "network": "tcp"
+    },
+    {
+      "server": "47.80.10.52",
+      "server_port": 443,
+      "tag": "🔴🇰🇷[📺]_github.com/Ruk1ng001_9af2fa4b",
+      "tls": {
+        "enabled": true,
+        "server_name": "api.company-target.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw"
+        }
+      },
+      "type": "vless",
+      "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
+      "packet_encoding": "xudp"
+    },
+    {
+      "password": "6f038cee-6ba1-4941-bce5-de1969f37405",
+      "server": "220.130.58.136",
+      "server_port": 35502,
+      "tag": "🟢🇺🇸[🤖📺🎪✨]_github.com/Ruk1ng001_0033319d",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "insecure": true
+      },
+      "type": "trojan",
+      "tcp_fast_open": true
+    },
+    {
+      "password": "20a3d819-ca7f-48a6-ba20-f7021e8dbbbe",
+      "server": "220.130.58.136",
+      "server_port": 31103,
+      "tag": "🟢🇭🇰[📺🎭]_github.com/Ruk1ng001_6a8bbd5e",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "insecure": true
+      },
+      "type": "trojan",
+      "tcp_fast_open": true
+    },
+    {
+      "password": "45173682-5f01-4254-8baa-930de8a6de8b",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰[📺🎭📦]_github.com/Ruk1ng001_4ac40544",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "fe040a20-827e-42eb-994f-ec16d4ae5aa4",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰[📺🎭]_github.com/Ruk1ng001_69d5feb8",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 20149,
+      "tag": "🔴🇲🇽[📺🎪]_github.com/Ruk1ng001_87b9cbeb",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
+    },
+    {
+      "server": "deu469.unboundworld.org",
+      "server_port": 443,
+      "tag": "🟢🇩🇪_github.com/Ruk1ng001_b2bd7201",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.t3n.de",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs"
+        }
+      },
+      "type": "vless",
+      "uuid": "cc9f7840-757a-430b-bddc-a73478bea434",
+      "flow": "xtls-rprx-vision",
+      "packet_encoding": "xudp"
+    },
+    {
+      "username": "Og%3D%3D",
+      "server": "121.169.46.116",
+      "server_port": 1090,
+      "tag": "🔴🇰🇷[🔍]_github.com/Ruk1ng001_48b81d1a",
+      "type": "socks",
+      "network": "tcp"
+    },
+    {
+      "server": "78.153.139.68",
+      "server_port": 8443,
+      "tag": "🔴🇫🇮_github.com/Ruk1ng001_80efa7f5",
+      "tls": {
+        "enabled": true,
+        "server_name": "images.apple.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4",
+          "short_id": "58c512b4422e2517"
+        }
+      },
+      "type": "vless",
+      "uuid": "fd8972d7-cf5e-11f0-9970-45e1d80c4039",
+      "flow": "xtls-rprx-vision",
+      "packet_encoding": "xudp"
+    },
+    {
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 43076,
+      "tag": "🟡🇹🇼[📺]_github.com/Ruk1ng001_58d5e652",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
+    },
+    {
+      "password": "8r\u003c[9'l6hAO#8ZQi",
+      "server": "172.66.44.230",
+      "server_port": 8443,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_dfFRgKCN",
+      "tls": {
+        "enabled": true,
+        "server_name": "Koma-YT.PAGeS.Dev",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "headers": {
+          "User-Agent": [
+            "Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36"
+          ]
+        },
+        "path": "/tro8sFW1S91B6sZrM1?ed=2560",
+        "type": "ws"
+      },
+      "type": "trojan"
+    },
+    {
+      "server": "nodejs.org",
+      "server_port": 80,
+      "tag": "🔴🇳🇱[📦]_github.com/Ruk1ng001_fa781f57",
+      "transport": {
+        "headers": {
+          "Host": [
+            "BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY."
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+          ]
+        },
+        "path": "/?ed",
+        "type": "ws"
+      },
+      "type": "vless",
+      "uuid": "7d4a519b-d270-434e-a42d-d39624577a92",
+      "packet_encoding": "xudp"
+    },
+    {
+      "username": "Og%3D%3D",
+      "server": "213.35.110.67",
+      "server_port": 10850,
+      "tag": "🔴🇸🇬_github.com/Ruk1ng001_bdc78de7",
+      "type": "socks",
+      "network": "tcp"
+    },
+    {
+      "server": "v10.hdacd.com",
+      "server_port": 30807,
+      "tag": "🟢🇭🇰_github.com/Ruk1ng001_fdd5a32e",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "server": "nodejs.org",
+      "server_port": 2052,
+      "tag": "🔴🇳🇱[🎭]_github.com/Ruk1ng001_c2218243",
+      "transport": {
+        "headers": {
+          "Host": [
+            "ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy."
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36"
+          ]
+        },
+        "path": "/?ed",
+        "type": "ws"
+      },
+      "type": "vless",
+      "uuid": "f8ae018b-b84d-4c9b-b03b-4642c3a25977",
+      "packet_encoding": "xudp"
+    },
+    {
+      "username": "3fed19ea-1671-11f0-bd2e-f23c9164ca5d",
+      "password": "\u003cpassword\u003e",
+      "server": "afbf4e3b-t9zts0-tdfzix-fm2v.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_f6ccc010",
+      "tls": {
+        "enabled": true,
+        "server_name": "afbf4e3b-t9zts0-tdfzix-fm2v.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 18148,
+      "tag": "🟡🇹🇼_github.com/Ruk1ng001_c8308bc4",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
+    },
+    {
+      "username": "fQ67Dpe5dU",
+      "password": "gs4BXwT6SW",
+      "server": "154.26.192.123",
+      "server_port": 10988,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_a88e970f",
+      "type": "http"
+    },
+    {
+      "username": "test",
+      "password": "test.+",
+      "server": "testkr3.ssv.vc",
+      "server_port": 30446,
+      "tag": "🔴🇰🇷[📦]_github.com/Ruk1ng001_FQLMnmSE",
+      "tls": {
+        "enabled": true,
+        "server_name": "testkr3.ssv.vc",
+        "insecure": true
+      },
+      "type": "http"
+    },
+    {
+      "password": "66c62e1a-8037-4154-ad0b-7a0ec415f46c",
+      "server": "220.130.58.136",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_dd97c07b",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "f976ac58-b52a-4a54-9c8e-3d49fd365232",
+      "server": "220.130.58.136",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_0b138bba",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "insecure": true
+      },
+      "type": "trojan",
+      "tcp_fast_open": true
+    },
+    {
+      "server": "v24.hdacd.com",
+      "server_port": 30824,
+      "tag": "🔴🇺🇸[🎬🤖🎭🎪]_github.com/Ruk1ng001_9b6fe04a",
+      "type": "vmess",
+      "alter_id": 2,
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "server": "172.66.128.70",
+      "server_port": 2052,
+      "tag": "🔴🇳🇱[📺🎪]_github.com/Ruk1ng001_aa34164e",
+      "transport": {
+        "headers": {
+          "Host": [
+            "ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy."
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
+          ]
+        },
+        "path": "/?ed",
+        "type": "ws"
+      },
+      "type": "vless",
+      "uuid": "f8ae018b-b84d-4c9b-b03b-4642c3a25977",
+      "packet_encoding": "xudp"
     },
     {
       "server": "45.13.119.38",
@@ -1538,20 +1678,119 @@
       "packet_encoding": "xudp"
     },
     {
-      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
-      "server": "ldu.izenny.com",
-      "server_port": 43076,
-      "tag": "🟡🇹🇼[📺]_github.com/Ruk1ng001_58d5e652",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
+      "password": "11cfbea5-eae4-4654-8aa9-a9481f38dc42",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_667b16c8",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
     },
     {
-      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
-      "server": "ldu.izenny.com",
-      "server_port": 28063,
-      "tag": "🟢🇸🇬[🎪✨📦]_github.com/Ruk1ng001_087e4868",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
+      "password": "47d9af53-24a8-4593-a439-a73b88ad53ae",
+      "server": "220.130.58.136",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_1f411cde",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "0a169d7d-a30f-4d90-af1b-55f6ef6afcb7",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_00da8c79",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "username": "1b13e20c-e778-11ef-907f-f23c913c8d2b",
+      "password": "\u003cpassword\u003e",
+      "server": "d475037f-t9zts0-teu3io-1t4wg.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tag": "🔴🇭🇰[📺]_github.com/Ruk1ng001_b50ca51b",
+      "tls": {
+        "enabled": true,
+        "server_name": "d475037f-t9zts0-teu3io-1t4wg.hkt.cdnhuawei.com"
+      },
+      "type": "http"
+    },
+    {
+      "password": "bbde1e79-49d4-448a-a81d-38bfbba3480d",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_ada6051a",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "6790a94c-4ea8-4a1e-979e-31716839427a",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_937a93c9",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "987525bc-99a3-461e-a50f-a0a667d06ed7",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_68484a98",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "a1a00c82-5356-4a49-8944-1cd0f94168bb",
+      "server": "220.130.58.136",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_3fe08131",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "insecure": true
+      },
+      "type": "trojan",
+      "tcp_fast_open": true
     },
     {
       "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
@@ -1562,34 +1801,195 @@
       "method": "chacha20-ietf-poly1305"
     },
     {
-      "server": "78.153.139.68",
-      "server_port": 8443,
-      "tag": "🔴🇫🇮[📦✈️🔍]_github.com/Ruk1ng001_80efa7f5",
+      "password": "bef1e608-83df-4935-8169-8a345f5643e9",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_f86e82a8",
       "tls": {
         "enabled": true,
-        "server_name": "images.apple.com",
+        "server_name": "green2.cdntencentmusic.com",
         "utls": {
           "enabled": true,
-          "fingerprint": "random"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4",
-          "short_id": "58c512b4422e2517"
+          "fingerprint": "chrome"
         }
       },
+      "type": "trojan"
+    },
+    {
+      "server": "104.18.32.47",
+      "server_port": 2052,
+      "tag": "🔴🇳🇱[🎬🤖📺🎪]_github.com/Ruk1ng001_9123fc37",
+      "transport": {
+        "headers": {
+          "Host": [
+            "oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK."
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36"
+          ]
+        },
+        "path": "/",
+        "type": "ws"
+      },
       "type": "vless",
-      "uuid": "fd8972d7-cf5e-11f0-9970-45e1d80c4039",
-      "flow": "xtls-rprx-vision",
+      "uuid": "5e62ddcf-78c9-4b15-803a-436c8c839ddc",
       "packet_encoding": "xudp"
+    },
+    {
+      "password": "5f6ded93-4ab8-4a99-9c84-b19b9993f27c",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_c5f88b4e",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
     },
     {
       "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
       "server": "ldu.izenny.com",
-      "server_port": 18148,
-      "tag": "🟡🇹🇼_github.com/Ruk1ng001_c8308bc4",
+      "server_port": 10589,
+      "tag": "🟢🇯🇵_github.com/Ruk1ng001_8e3684aa",
       "type": "shadowsocks",
       "method": "chacha20-ietf-poly1305"
+    },
+    {
+      "password": "8595b855-e4c4-40cd-834d-d34bb65ec928",
+      "server": "220.130.58.136",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_d8d100c2",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "insecure": true
+      },
+      "type": "trojan",
+      "tcp_fast_open": true
+    },
+    {
+      "server": "v30.hdacd.com",
+      "server_port": 30830,
+      "tag": "🔴🇳🇱_github.com/Ruk1ng001_6fcfb12f",
+      "type": "vmess",
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "password": "6f038cee-6ba1-4941-bce5-de1969f37405",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_aae2da91",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 34411,
+      "tag": "🔴🇮🇳[📺🎭]_github.com/Ruk1ng001_d169f9a5",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
+    },
+    {
+      "server": "62.182.195.78",
+      "server_port": 8443,
+      "tag": "🔴🇸🇪[🎭📦✈️🔍]_github.com/Ruk1ng001_70aaf6f2",
+      "tls": {
+        "enabled": true,
+        "server_name": "retn.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU",
+          "short_id": "6b374e33af12fd1e"
+        }
+      },
+      "type": "vless",
+      "uuid": "9a63b59c-5e54-437a-b7a1-2788780a7c13",
+      "flow": "xtls-rprx-vision",
+      "packet_encoding": "xudp"
+    },
+    {
+      "server": "v30.hdacd.com",
+      "server_port": 30830,
+      "tag": "🔴🇳🇱_github.com/Ruk1ng001_vma5U33I",
+      "type": "vmess",
+      "security": "auto",
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+    },
+    {
+      "server": "82.198.246.97",
+      "server_port": 180,
+      "tag": "🔴🇺🇸[🤖🎞️📦✈️]_github.com/Ruk1ng001_e3268b89",
+      "type": "vmess",
+      "security": "auto",
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
+    },
+    {
+      "server": "47.80.12.87",
+      "server_port": 443,
+      "tag": "🔴🇰🇷_github.com/Ruk1ng001_d884f0d9",
+      "tls": {
+        "enabled": true,
+        "server_name": "api.company-target.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw"
+        }
+      },
+      "type": "vless",
+      "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
+      "packet_encoding": "xudp"
+    },
+    {
+      "username": "Og%3D%3D",
+      "server": "121.169.46.116",
+      "server_port": 1090,
+      "tag": "🔴🇰🇷[📦🔍]_github.com/Ruk1ng001_5b8e1a9b",
+      "type": "socks",
+      "network": "tcp"
+    },
+    {
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 55936,
+      "tag": "🔴🇧🇷_github.com/Ruk1ng001_a5c96795",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
+    },
+    {
+      "password": "04e5b584-1850-483d-a844-9ad624a4ca8e",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_054cfd18",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
     },
     {
       "server": "fran.scroogethebest.com",
@@ -1614,46 +2014,113 @@
       "packet_encoding": "xudp"
     },
     {
-      "password": "JVrsLLN1tkN8oXZO",
-      "server": "chengbai02.ascwt179.com",
-      "server_port": 13223,
-      "tag": "🟡🇬🇧_github.com/Ruk1ng001_5a520b0f",
-      "type": "shadowsocks",
-      "method": "aes-128-gcm"
-    },
-    {
-      "server": "47.80.10.52",
-      "server_port": 443,
-      "tag": "🔴🇰🇷[🎬🤖📺🎭]_github.com/Ruk1ng001_9af2fa4b",
+      "server": "162.159.36.20",
+      "server_port": 2053,
+      "tag": "⚪🏳️_github.com/Ruk1ng001_9b126bdd",
       "tls": {
         "enabled": true,
-        "server_name": "api.company-target.com",
+        "server_name": "ir1.airpanel.top",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw"
         }
       },
+      "transport": {
+        "headers": {
+          "Host": [
+            "ir1.airpanel.top"
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+          ]
+        },
+        "path": "/",
+        "type": "ws"
+      },
       "type": "vless",
-      "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
+      "uuid": "e5f8a9f6-f164-479b-b3b5-b90f213c7145",
       "packet_encoding": "xudp"
     },
     {
       "password": "f8f7aCzcPKbsF8p3",
       "server": "185.231.233.112",
       "server_port": 989,
-      "tag": "🔴🇵🇹_github.com/Ruk1ng001_a4bc1e9b",
+      "tag": "🔴🇵🇹_github.com/Ruk1ng001_WDm2Mxxg",
       "type": "shadowsocks",
-      "method": "aes-256-cfb"
+      "method": "aes-256-cfb",
+      "network": "tcp"
     },
     {
-      "password": "c5355528-55a2-45df-b8fd-a48ce3c41413",
+      "server": "139.196.41.153",
+      "server_port": 443,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_0dabd341",
+      "tls": {
+        "enabled": true,
+        "server_name": "ylnhh.cc.cd",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "headers": {
+          "Host": [
+            "ylnhh.cc.cd"
+          ],
+          "User-Agent": [
+            "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36"
+          ]
+        },
+        "path": "/gs5=6666:6666@47.239.178.125:6666",
+        "type": "ws"
+      },
+      "type": "vless",
+      "uuid": "14b02e2a-8930-4afb-8412-ea4a4954ca5b",
+      "packet_encoding": "xudp"
+    },
+    {
+      "password": "fdeb5068-b9c7-486c-8ccf-8d2b744bd839",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_86bf98fd",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "0a169d7d-a30f-4d90-af1b-55f6ef6afcb7",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_43bc5ece",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "4475c5fb-c4d3-444c-8822-c2e32e1c272c",
+      "server": "c.cdn-bilibili.cn",
+      "server_port": 10019,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_dbd1dc11",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
+    },
+    {
+      "password": "92953fc6-f497-43af-9d6d-f3b5589df318",
       "server": "220.130.58.136",
-      "server_port": 35502,
-      "tag": "🟢🇺🇸_github.com/Ruk1ng001_83fbbfb3",
+      "server_port": 35501,
+      "tag": "🔴🇺🇸_github.com/Ruk1ng001_796e2854",
       "tls": {
         "enabled": true,
         "server_name": "green2.cdntencentmusic.com",
@@ -1661,6 +2128,51 @@
       },
       "type": "trojan",
       "tcp_fast_open": true
+    },
+    {
+      "server": "213.35.110.67",
+      "server_port": 10850,
+      "tag": "🔴🇸🇬[🎬]_github.com/Ruk1ng001_422ac497",
+      "type": "socks",
+      "network": "tcp"
+    },
+    {
+      "password": "26635779-8ce6-4c07-ae5d-f3769ec95ddd",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_1d39392a",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
+      "server": "ldu.izenny.com",
+      "server_port": 57927,
+      "tag": "🟢🇯🇵_github.com/Ruk1ng001_7557617c",
+      "type": "shadowsocks",
+      "method": "chacha20-ietf-poly1305"
+    },
+    {
+      "password": "adf2550f-8b87-4ea1-aa80-e7fc8f65a68a",
+      "server": "green2.cdntencentmusic.com",
+      "server_port": 31101,
+      "tag": "🔴🇭🇰_github.com/Ruk1ng001_9fa00404",
+      "tls": {
+        "enabled": true,
+        "server_name": "green2.cdntencentmusic.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "trojan"
     },
     {
       "server": "47.80.11.87",
@@ -1683,93 +2195,6 @@
       "packet_encoding": "xudp"
     },
     {
-      "server": "v29.hdacd.com",
-      "server_port": 30829,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_3305bc16",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
-      "server": "ldu.izenny.com",
-      "server_port": 20149,
-      "tag": "🔴🇲🇽_github.com/Ruk1ng001_87b9cbeb",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "server": "v4.hdacd.com",
-      "server_port": 30804,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_8a217df2",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "server": "172.66.128.70",
-      "server_port": 2052,
-      "tag": "🔴🇳🇱[📺📦]_github.com/Ruk1ng001_aa34164e",
-      "transport": {
-        "headers": {
-          "Host": [
-            "ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy."
-          ],
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
-          ]
-        },
-        "path": "/?ed",
-        "type": "ws"
-      },
-      "type": "vless",
-      "uuid": "f8ae018b-b84d-4c9b-b03b-4642c3a25977",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
-      "server": "ldu.izenny.com",
-      "server_port": 10589,
-      "tag": "🟢🇯🇵_github.com/Ruk1ng001_8e3684aa",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "server": "nodejs.org",
-      "server_port": 2052,
-      "tag": "🔴🇳🇱[🎪📦✈️]_github.com/Ruk1ng001_c2218243",
-      "transport": {
-        "headers": {
-          "Host": [
-            "ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy."
-          ],
-          "User-Agent": [
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36"
-          ]
-        },
-        "path": "/?ed",
-        "type": "ws"
-      },
-      "type": "vless",
-      "uuid": "f8ae018b-b84d-4c9b-b03b-4642c3a25977",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "4250b3bb-d1ae-4e77-bf71-4069e0d2c383",
-      "server": "220.130.58.136",
-      "server_port": 31101,
-      "tag": "🔴🇭🇰_github.com/Ruk1ng001_872dd483",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "insecure": true
-      },
-      "type": "trojan",
-      "tcp_fast_open": true
-    },
-    {
       "password": "f8f7aCzcPKbsF8p3",
       "server": "185.231.233.112",
       "server_port": 989,
@@ -1779,282 +2204,35 @@
       "network": "tcp"
     },
     {
-      "server": "v24.hdacd.com",
-      "server_port": 30824,
-      "tag": "🔴🇺🇸[📺📦]_github.com/Ruk1ng001_9b6fe04a",
+      "server": "v12.hdacd.com",
+      "server_port": 30812,
+      "tag": "🔴🇸🇬_github.com/Ruk1ng001_c54db46d",
       "type": "vmess",
-      "alter_id": 2,
       "security": "auto",
       "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
     },
     {
-      "server": "185.234.57.216",
+      "server": "104.19.152.87",
       "server_port": 443,
-      "tag": "🔴🇦🇲[📺📦✈️]_github.com/Ruk1ng001_c5ab62f3",
+      "tag": "🟢🇭🇰[📺]_github.com/Ruk1ng001_f840f88d",
       "tls": {
         "enabled": true,
-        "server_name": "yahoo.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ",
-          "short_id": "f9fe"
-        }
-      },
-      "type": "vless",
-      "uuid": "b824f264-8cc3-4669-9f60-47b51ed1aa11",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "04e5b584-1850-483d-a844-9ad624a4ca8e",
-      "server": "220.130.58.136",
-      "server_port": 31101,
-      "tag": "🔴🇭🇰_github.com/Ruk1ng001_e8bf5ffb",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
+        "server_name": "s6.oboob.cn",
         "insecure": true
       },
-      "type": "trojan",
-      "tcp_fast_open": true
-    },
-    {
-      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
-      "server": "ldu.izenny.com",
-      "server_port": 57927,
-      "tag": "🟢🇯🇵_github.com/Ruk1ng001_7557617c",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "password": "47d9af53-24a8-4593-a439-a73b88ad53ae",
-      "server": "220.130.58.136",
-      "server_port": 35501,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_1f411cde",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "trojan"
-    },
-    {
-      "server": "nodejs.org",
-      "server_port": 80,
-      "tag": "🔴🇳🇱[🤖]_github.com/Ruk1ng001_fa781f57",
       "transport": {
         "headers": {
           "Host": [
-            "BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY."
-          ],
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+            "s6.oboob.cn"
           ]
         },
-        "path": "/?ed",
+        "path": "/db1024113a787392",
         "type": "ws"
       },
       "type": "vless",
-      "uuid": "7d4a519b-d270-434e-a42d-d39624577a92",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "f8f7aCzcPKbsF8p3",
-      "server": "185.231.233.112",
-      "server_port": 989,
-      "tag": "🔴🇵🇹_github.com/Ruk1ng001_WDm2Mxxg",
-      "type": "shadowsocks",
-      "method": "aes-256-cfb",
-      "network": "tcp"
-    },
-    {
-      "password": "4475c5fb-c4d3-444c-8822-c2e32e1c272c",
-      "server": "c.cdn-bilibili.cn",
-      "server_port": 10019,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_dbd1dc11",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "password": "c6d61cd1-d3dc-405e-afb2-d67815f4e4da",
-      "server": "ldu.izenny.com",
-      "server_port": 55936,
-      "tag": "🔴🇧🇷_github.com/Ruk1ng001_a5c96795",
-      "type": "shadowsocks",
-      "method": "chacha20-ietf-poly1305"
-    },
-    {
-      "server": "213.35.110.67",
-      "server_port": 10850,
-      "tag": "🔴🇸🇬_github.com/Ruk1ng001_422ac497",
-      "type": "socks",
-      "network": "tcp"
-    },
-    {
-      "server": "v30.hdacd.com",
-      "server_port": 30830,
-      "tag": "🔴🇳🇱_github.com/Ruk1ng001_6fcfb12f",
-      "type": "vmess",
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "server": "deu469.unboundworld.org",
-      "server_port": 443,
-      "tag": "🟢🇩🇪_github.com/Ruk1ng001_b2bd7201",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.t3n.de",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs"
-        }
-      },
-      "type": "vless",
-      "uuid": "cc9f7840-757a-430b-bddc-a73478bea434",
-      "flow": "xtls-rprx-vision",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "v10.hdacd.com",
-      "server_port": 30807,
-      "tag": "🟢🇭🇰_github.com/Ruk1ng001_fdd5a32e",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "server": "v10.hdacd.com",
-      "server_port": 30807,
-      "tag": "🟢🇭🇰_github.com/Ruk1ng001_9b1b67ba",
-      "type": "vmess",
-      "alter_id": 2,
-      "security": "auto",
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
-    },
-    {
-      "password": "04e5b584-1850-483d-a844-9ad624a4ca8e",
-      "server": "220.130.58.136",
-      "server_port": 35501,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_45912192",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "insecure": true
-      },
-      "type": "trojan",
+      "uuid": "d2efa18a-9e8a-3057-91fe-90c8e620e49f",
+      "packet_encoding": "xudp",
       "tcp_fast_open": true
-    },
-    {
-      "server": "104.18.32.47",
-      "server_port": 2052,
-      "tag": "🔴🇳🇱[🤖📦]_github.com/Ruk1ng001_9123fc37",
-      "transport": {
-        "headers": {
-          "Host": [
-            "oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK."
-          ],
-          "User-Agent": [
-            "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36"
-          ]
-        },
-        "path": "/",
-        "type": "ws"
-      },
-      "type": "vless",
-      "uuid": "5e62ddcf-78c9-4b15-803a-436c8c839ddc",
-      "packet_encoding": "xudp"
-    },
-    {
-      "server": "185.171.202.55",
-      "server_port": 443,
-      "tag": "🔴🇫🇷[📦]_github.com/Ruk1ng001_57a102e0",
-      "tls": {
-        "enabled": true,
-        "server_name": "fran.scroogethebest.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc",
-          "short_id": "4fa44664f6a566d3"
-        }
-      },
-      "type": "vless",
-      "uuid": "ccedb1b1-35f3-46d1-a85a-c699eef5f3e1",
-      "flow": "xtls-rprx-vision",
-      "packet_encoding": "xudp"
-    },
-    {
-      "password": "987525bc-99a3-461e-a50f-a0a667d06ed7",
-      "server": "green2.cdntencentmusic.com",
-      "server_port": 31101,
-      "tag": "🔴🇭🇰_github.com/Ruk1ng001_68484a98",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "fdeb5068-b9c7-486c-8ccf-8d2b744bd839",
-      "server": "green2.cdntencentmusic.com",
-      "server_port": 31101,
-      "tag": "🔴🇭🇰_github.com/Ruk1ng001_86bf98fd",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "92953fc6-f497-43af-9d6d-f3b5589df318",
-      "server": "220.130.58.136",
-      "server_port": 35501,
-      "tag": "🔴🇺🇸_github.com/Ruk1ng001_796e2854",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "insecure": true
-      },
-      "type": "trojan",
-      "tcp_fast_open": true
-    },
-    {
-      "password": "45173682-5f01-4254-8baa-930de8a6de8b",
-      "server": "green2.cdntencentmusic.com",
-      "server_port": 31101,
-      "tag": "🔴🇭🇰_github.com/Ruk1ng001_4ac40544",
-      "tls": {
-        "enabled": true,
-        "server_name": "green2.cdntencentmusic.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "trojan"
     }
   ]
 }
